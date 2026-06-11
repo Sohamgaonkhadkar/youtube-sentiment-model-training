@@ -1,0 +1,9 @@
+mlruns/
+*.pkl
+*.joblib
+*.pt
+*.pth
+venv/
+yt_env/
+__pycache__/
+.ipynb_checkpoints/
