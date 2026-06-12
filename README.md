@@ -434,6 +434,8 @@ Final Performance:
 
 This model achieved the highest score across all evaluation metrics.
 
+<img width="658" height="547" alt="Image" src="https://github.com/user-attachments/assets/a843646f-68c8-4e8c-96ad-dff6b73756a8" />
+
 ---
 
 # Why Macro F1 Was Used
